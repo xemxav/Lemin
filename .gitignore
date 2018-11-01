@@ -1,0 +1,8 @@
+*.o
+*.a
+*.dSYM
+.DS_Store
+cmake-build-debug
+.idea
+CmakeLists.txt
+lem-in
